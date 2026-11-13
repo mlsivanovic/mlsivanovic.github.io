@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.mlsivanovic.mozgalica",
+      "sha256_cert_fingerprints": [
+        "60:96:A9:F5:12:C2:ED:7C:7C:68:9D:15:76:23:46:A3:9D:D7:14:34:52:BD:AD:2A:69:AF:4B:3A:2A:C9:0A:1A"
+      ]
+    }
+  }
+]
